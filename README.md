@@ -13,4 +13,4 @@ A lightweight, responsive digital menu for **SRK Restaurant**. This project focu
 
 ## 🚀 View the Menu
 Check out the live menu here: 
-`https://your-username.github.io/srk-restaurant/`
+https://goparajusrkakshith-hue.github.io/SRK-Restaurant/
